@@ -160,10 +160,6 @@ img {
   color: dodgerblue;
   text-decoration: none;
 }
-.article-card__date {
-}
-.article-card__title {
-}
 
 .article-card__short-text {
   display: -webkit-box;
@@ -181,7 +177,9 @@ img {
   margin-top: 20px;
 }
 
-.special-link {
+.site-footer{
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .footer-contents__wrapper{
