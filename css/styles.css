@@ -292,6 +292,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   padding-top: 50px;
+  justify-content: center;
 }
 
 .services-item__one:nth-child(4){
